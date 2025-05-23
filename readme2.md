@@ -1,8 +1,5 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&width=500&height=70&lines=💫++ABOUT+ME+%3A-;Hi%2C+My+Name+Is+YOGESH+Bhapkar" alt="Typing SVG" />
-  </a>
-</h1>
+<h1 align="center">Hi 👋, I'm Yogesh Bhapkar</h1>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 <h3 align="center">🚀 Passionate Full Stack Developer | Java | C++ | Spring Boot</h3>
 
